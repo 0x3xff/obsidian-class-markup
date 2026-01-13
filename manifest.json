@@ -1,7 +1,7 @@
 {
   "id": "obsidian-class-markup",
   "name": "Class Markup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.10.6",
   "description": "Add custom CSS classes to elements for advanced styling",
   "author": "Randomsnuw",
